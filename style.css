@@ -1,0 +1,9 @@
+body {background-color: rgba(131, 219, 241, 0.8);
+     font-family: 'Castoro', serif;
+     font-optical-sizing: none ;     
+}
+h1{text-align: center; 
+    color: rgb(236, 124, 124); 
+    font-size: 110px;
+    margin: 5px; padding: 5px;}
+
